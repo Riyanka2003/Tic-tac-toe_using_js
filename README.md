@@ -9,4 +9,4 @@ Responsive Design: Adapts to various screen sizes for a smooth experience.
 Interactive UI: Clean layout with CSS animations and hover effects.
 Reset Option: Restart the game anytime with a single click.
 
-Live demo here :- file:///C:/Users/riyan/OneDrive/Documents/tic%20tac%20toe%20js/index.html
+Live demo here :- http://127.0.0.1:3000/c:/Users/riyan/OneDrive/Documents/tic tac toe js/index.html
